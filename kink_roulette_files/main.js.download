@@ -199,6 +199,12 @@ $(function() {
             "Yor Forger",
             "Poison Ivy",
             "Harley Quinn",
+            "Cassandra Dimitrescu",
+            "Leon S. Kennedy",
+            "Zack Fair",
+            "Aerith Gainsborough",
+            "Cloud Strife",
+            "Tifa Lockhart",
         ],
 
         race: [
@@ -383,6 +389,12 @@ $(function() {
             "Yor Forger",
             "Poison Ivy",
             "Harley Quinn",
+            "Cassandra Dimitrescu",
+            "Leon S. Kennedy",
+            "Zack Fair",
+            "Aerith Gainsborough",
+            "Cloud Strife",
+            "Tifa Lockhart",
         ],
 
         dclass: [
@@ -708,6 +720,16 @@ $(function() {
             "vore",
             "dacryphilia",
             "branding",
+            "food play",
+            "sounding",
+            "snuff",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
         ],
 
     });
