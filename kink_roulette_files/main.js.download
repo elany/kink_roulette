@@ -723,13 +723,6 @@ $(function() {
             "food play",
             "sounding",
             "snuff",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
         ],
 
     });
