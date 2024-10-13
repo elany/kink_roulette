@@ -786,8 +786,8 @@ $(function() {
             "and Korra",
             "and Asami Sato",
             "and Reader",
-	"Yoda",
-	"Jar Jar Binks",  
+	"and Yoda",
+	"and Jar Jar Binks",  
         ],
 
         location: [
