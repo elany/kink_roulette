@@ -222,7 +222,6 @@ $(function() {
 	"Jaskier",
 	"James T. Kirk",
 	"Spock",
-	"Reigen Arataka",
         ],
 
         race: [
@@ -430,7 +429,6 @@ $(function() {
 	"Jaskier",
 	"James T. Kirk",
 	"Spock",
-	"Reigen Arataka",
         ],
 
         dclass: [
@@ -668,6 +666,7 @@ $(function() {
             " ",
             " ",
             " ",
+	"and Reigen Arataka",
             " ",
             " ",
             " ",
